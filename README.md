@@ -1,11 +1,6 @@
-# Intro to Ansible Lab – Deployment Automation
+# ACIT4640 Ansible Lab
 
-This lab demonstrates automating the deployment of two Nginx web servers on AWS EC2 instances using **Terraform** and **Ansible**.  
-It includes infrastructure provisioning, configuration management, and cleanup steps.
-
----
-
-## SSH Key Management
+## SSH Key creation & deletion
 
 ### Create a new SSH key pair
 ```bash
